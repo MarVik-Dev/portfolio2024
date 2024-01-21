@@ -1,7 +1,7 @@
 # FRANÇAIS => Portfolio de Martin Victor, ou MarVik
 
 Bienvenue sur mon portfolio en ligne ! 🚀
-Et plus précisement sur ce fichier tant aimé/détésté => README.MD !
+Et plus précisément sur ce fichier tant aimé/détésté => README.MD !
 Dans cette version, seule la structure du site est mise à disposition. 
 Le contenu visible sur https://www.marvik.fr a été partiellement supprimé pour permettre à qui veut, d'utiliser ce portfolio.
 PS: je laisse ce README.MD en exemple. 
@@ -12,7 +12,7 @@ L'avantage d'un portfolio, c'est qu'il parle déjà de soi!
 Vous-en voulez une synthèse ? (c'est vraiment par ce que vous avez ouvert ce fichier 🙂)
 En quelques mots, je suis une personne qui aime comprendre et chercher l'optimisation.
 
-L'experience de ces dernieres années en tant que développeur FullStack m'a permis de comprendre le language Javascript et exploiter au mieux tout cet écho systeme qui s'est developpé autour.
+L'expérience de ces dernières années en tant que développeur FullStack m'a permis de comprendre le langage Javascript et exploiter au mieux tout cet écosysteme qui s'est développé autour.
 
 Ma vision en 3 points : Problématique - (Immagination - Réalisation) => solution.
 
