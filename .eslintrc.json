@@ -1,0 +1,7 @@
+{
+// TailwindCss Plugin added to optimize list CSS class
+  "extends": ["plugin:tailwindcss/recommended","next/core-web-vitals"],
+  "rules": {
+    "react/no-unescaped-entities": "off"
+  }
+}
